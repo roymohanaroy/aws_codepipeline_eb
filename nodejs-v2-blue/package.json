@@ -4,6 +4,6 @@
   "private": true,
   "dependencies": {},
   "scripts": {
-    "test": "echo \"Errorr: no test specified\" && exit 1"
+    "test": "echo \"Error test: no test specified\" && exit 1"
   }
 }
