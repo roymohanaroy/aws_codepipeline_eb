@@ -4,6 +4,6 @@
   "private": true,
   "dependencies": {},
   "scripts": {
-    "start": "node app.js"
+    "test": "echo \"Error test: no test specified\" && exit 1"
   }
 }
