@@ -1,9 +1,9 @@
 {
   "name": "Elastic-Beanstalk-Sample-App",
-  "version": "1.11.2",
+  "version": "0.0.1",
   "private": true,
   "dependencies": {},
   "scripts": {
-    "test": "echo \"Error test: no test specified\" && exit 1"
+    "test": "node app.js"
   }
 }
